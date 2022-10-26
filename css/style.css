@@ -1,0 +1,46 @@
+body {
+    background-image: url(img/WhatsApp\ Image\ 2022-10-24\ at\ 4.58.21\ PM.jpeg);
+    background-repeat: no-repeat;
+}
+
+.v {
+   background-color: rgb(255, 127, 240);
+   font-size: 20px;
+   font-family: sans-serif;
+   text-align: left;
+}
+
+.inicio {
+    text-align: center;
+    color: rgb(121, 247, 243);
+    font-size: 55px;
+    font-family: cursive;
+}
+.segundo {
+    text-align: right;
+    color:  rgb(242, 168, 242);
+    font-size: 26px;
+    font-family: cursive;
+}
+.centro {
+    text-align: right;
+    color: rgb(182, 73, 192);
+    font-size: 30px;
+    font-family: cursive;
+}
+.de {
+    text-align: right;
+    color: rgb(106, 239, 190);
+    font-size: 30px;
+    font-family: cursive;
+}
+.en {
+    text-align: right;
+    color:  rgb(106, 239, 190);
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.footer {
+    background-color: rgb(116, 246, 246);
+}
